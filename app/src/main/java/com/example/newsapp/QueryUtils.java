@@ -71,7 +71,7 @@ public class QueryUtils {
             e.printStackTrace();
         }
 
-        Log.d(TAG, "makeHttpRequest: " + jsonResponse);
+        Log.d(TAG, "makeHttpRequest : " + jsonResponse);
         return jsonResponse;
     }
 
