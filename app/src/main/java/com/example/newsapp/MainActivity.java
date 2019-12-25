@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         assert manager != null;
         NetworkInfo networkInfo = manager.getActiveNetworkInfo();
 
-        ListView = findViewById(R.id.earthquake);
+        ListView = findViewById(R.id.newslist);
         ProgressBar = findViewById(R.id.progressBar);
         TextView = findViewById(R.id.title_text_view);
 

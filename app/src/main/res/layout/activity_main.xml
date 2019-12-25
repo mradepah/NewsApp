@@ -24,7 +24,7 @@
         android:orientation="vertical">
 
         <include
-            android:id="@+id/earthquake"
+            android:id="@+id/newslist"
             layout="@layout/list"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
